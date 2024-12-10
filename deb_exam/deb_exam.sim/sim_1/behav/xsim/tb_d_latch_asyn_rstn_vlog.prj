@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../New Folder 2/d_latch_asyn_rstn.sv" \
+"../../../../deb_exam.srcs/sim_1/new/tb_d_latch_asyn_rstn.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

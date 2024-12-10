@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Desktop/New Folder 2/d_flipflop.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_flipflop
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_latch_asyn_rstn
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Desktop/New Folder 2/mux2x1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2x1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Desktop/New Folder 2/secand_counter_4bit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module secand_counter_4bit
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_secand_counter_4bit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_secand_counter_4bit

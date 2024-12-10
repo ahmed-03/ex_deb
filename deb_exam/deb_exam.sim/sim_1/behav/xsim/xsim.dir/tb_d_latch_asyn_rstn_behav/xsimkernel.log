@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_d_latch_asyn_rstn_behav/xsimk -simmode gui -wdb tb_d_latch_asyn_rstn_behav.wdb -simrunnum 0 -socket 38509
+Design successfully loaded
+Design Loading Memory Usage: 32996 KB (Peak: 33568 KB)
+Design Loading CPU Usage: 10 ms

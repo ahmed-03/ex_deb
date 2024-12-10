@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/New Folder 2/d_flipflop.sv,1733819104,systemVerilog,,/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv,1733818416,systemVerilog,,/home/it/Desktop/New Folder 2/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/Desktop/New Folder 2/mux2x1.sv,1733805263,systemVerilog,,/home/it/Desktop/New Folder 2/secand_counter_4bit.sv,,mux2x1,,,,,,,,
+/home/it/Desktop/New Folder 2/secand_counter_4bit.sv,1733820097,systemVerilog,,/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_secand_counter_4bit.sv,,secand_counter_4bit,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_counter_4bit.sv,1733811013,systemVerilog,,,,tb_counter_4bit,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_d_flipflop1.sv,1733815108,systemVerilog,,,,tb_d_flipflop1,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_d_latch_asyn_rstn.sv,1733818119,systemVerilog,,,,tb_d_latch_asyn_rstn,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_secand_counter_4bit.sv,1733812123,systemVerilog,,,,tb_secand_counter_4bit,,,,,,,,
+/home/it/Desktop/deb_exam/deb_exam.srcs/sources_1/new/counter_4bit.sv,1733811832,systemVerilog,,/home/it/Desktop/deb_exam/deb_exam.srcs/sim_1/new/tb_counter_4bit.sv,,counter_4bit,,,,,,,,

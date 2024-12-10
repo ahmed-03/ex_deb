@@ -1,0 +1,33 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 5c2e20beea854821acdb6ec2d0b50322 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_secand_counter_4bit_behav xil_defaultlib.tb_secand_counter_4bit xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/secand_counter_4bit.sv" Line 1. Module secand_counter_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/Desktop/New Folder 2/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux2x1
+Compiling module xil_defaultlib.d_latch_asyn_rstn
+Compiling module xil_defaultlib.d_flipflop
+Compiling module xil_defaultlib.secand_counter_4bit
+Compiling module xil_defaultlib.tb_secand_counter_4bit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_secand_counter_4bit_behav
